@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/form-validation/static/css/main.ce47448d.css",
+    "main.js": "/form-validation/static/js/main.cd726a24.js",
+    "index.html": "/form-validation/index.html",
+    "main.ce47448d.css.map": "/form-validation/static/css/main.ce47448d.css.map",
+    "main.cd726a24.js.map": "/form-validation/static/js/main.cd726a24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce47448d.css",
+    "static/js/main.cd726a24.js"
+  ]
+}
